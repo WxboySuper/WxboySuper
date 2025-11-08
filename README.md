@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate hobbyist who loves to explore new
 - 🌐 I'm proficient in Python and have experience working with Electron for building desktop applications.
 - 📚 I'm constantly learning and expanding my knowledge in various programming languages and frameworks.
 - 🎨 I enjoy creating intuitive and user-friendly interfaces.
-- 🌟 I'm the lead developer (and sole developer) at WeatherTrackUS, where we build tools to assist our live coverage across our social platforms.
+- 🌟 I'm the developer at WeatherTrackUS, where we build tools to assist our live coverage across our social platforms.
 
 ## 📈 GitHub Stats
 
