@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I’m a weather nerd, builder, and the Development
 
 - Development Lead on the team
 - Focused on supporting the tools and workflows behind live coverage
-- [WeatherTrackUS](https://team.weathertrackus.com/) is the home base for that work
+- [WeatherTrackUS](https://x.com/weathertrackus) is the home base for that work
 - [wtus-dashboard](https://github.com/WeatherTrackUS/wtus-dashboard) is the public-facing repo worth mentioning here
 
 ## GitHub Stats
