@@ -23,15 +23,6 @@ Welcome to my GitHub profile. I’m a weather nerd, builder, and the Development
 - [WeatherTrackUS](https://team.weathertrackus.com/) is the home base for that work
 - [wtus-dashboard](https://github.com/WeatherTrackUS/wtus-dashboard) is the public-facing repo worth mentioning here
 
-## More On GitHub
-
-If you want the full picture, the rest is on the repositories tab. A few other highlights live on my profile:
-
-- [Graphical-Forecast-Creator](https://github.com/WxboySuper/Graphical-Forecast-Creator)
-- [airline-career-sim](https://github.com/WxboySuper/airline-career-sim)
-- [MatchPoint](https://github.com/WxboySuper/MatchPoint)
-- [Santa_Tracker](https://github.com/WxboySuper/Santa_Tracker)
-
 ## GitHub Stats
 
 ![WxboySuper's GitHub stats](https://github-readme-stats.vercel.app/api?username=WxboySuper&show_icons=true&theme=radical)
