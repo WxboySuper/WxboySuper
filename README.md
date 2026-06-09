@@ -1,45 +1,50 @@
 # Hi there, I'm WxboySuper! 👋
 
-Welcome to my GitHub profile! I'm a passionate hobbyist who loves to explore new technologies and contribute to open-source projects. Here's a little more about me:
+Welcome to my GitHub profile. I’m a weather nerd, builder, and the Development Lead for WeatherTrackUS. I spend most of my time building weather tools, supporting live coverage workflows, and working on projects that make forecasting or organizing data a little easier.
 
-## 🚀 About Me
+## About Me
 
-- 💻 I specialize in Python development, focusing on building tools for weather monitoring and notifications.
-- 🌐 I'm proficient in Python and have experience working with Electron for building desktop applications.
-- 📚 I'm constantly learning and expanding my knowledge in various programming languages and frameworks.
-- 🎨 I enjoy creating intuitive and user-friendly interfaces.
-- 🌟 I'm the developer at WeatherTrackUS, where we build tools to assist our live coverage across our social platforms.
+- I work a lot in Python, JavaScript, Electron, and web tooling
+- I’m heavily involved in weather-related software and live coverage workflows
+- I like building practical tools more than flashy ones
+- I’m always experimenting with new ideas, then turning the useful ones into actual projects
 
-## 📈 GitHub Stats
+## Featured Work
+
+- [Graphical-Forecast-Creator](https://github.com/WxboySuper/Graphical-Forecast-Creator) - my current severe weather outlook builder for drawing, organizing, and verifying forecasts
+- [airline-career-sim](https://github.com/WxboySuper/airline-career-sim) - a longer-form simulation project I’m actively around
+- [MatchPoint](https://github.com/WxboySuper/MatchPoint) - one of my ongoing non-weather projects
+- [Santa_Tracker](https://github.com/WxboySuper/Santa_Tracker) - a seasonal project I still keep around
+
+## WeatherTrackUS
+
+- Development Lead on the team
+- Focused on supporting the tools and workflows behind live coverage
+- [WeatherTrackUS](https://team.weathertrackus.com/) is the home base for that work
+- [wtus-dashboard](https://github.com/WeatherTrackUS/wtus-dashboard) is the public-facing repo worth mentioning here
+
+## More On GitHub
+
+If you want the full picture, the rest is on the repositories tab. A few other highlights live on my profile:
+
+- [Graphical-Forecast-Creator](https://github.com/WxboySuper/Graphical-Forecast-Creator)
+- [airline-career-sim](https://github.com/WxboySuper/airline-career-sim)
+- [MatchPoint](https://github.com/WxboySuper/MatchPoint)
+- [Santa_Tracker](https://github.com/WxboySuper/Santa_Tracker)
+
+## GitHub Stats
 
 ![WxboySuper's GitHub stats](https://github-readme-stats.vercel.app/api?username=WxboySuper&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WxboySuper&layout=compact&theme=radical)
 
-## 🔧 Technologies & Tools
+## Cool Things About Me
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+- I’m into weather systems and the tools around them
+- I tend to keep a lot of side projects alive at once
+- I like making software that gets used, not just admired
+- I’m usually the person smoothing out the rough edges on a project
 
-## 📫 How to Reach Me
+## Reach Me
 
-- Twitter: [@WeatherboySuper](https://twitter.com/weatherboysuper)
-- Email: alex@weatherboysuper.com
-
-## 🌟 Projects
-
-### WeatherTrackUS Projects
-
-- [Severe-Weather-Outlook-Display](https://github.com/WeatherTrackUS/Severe-Weather-Outlook-Display): A comprehensive tool for displaying and monitoring severe weather outlooks from the Storm Prediction Center.
-- [Alert-Notifier](https://github.com/WeatherTrackUS/Alert-Notifier): A tool designed to give notifications based on select new and updated weather alerts from the NWS. The tool also has a web-based dashboard that can be turned on and will display all active alerts processed through the tool.
-- [NEXRAD-Data-Grabber](https://github.com/WeatherTrackUS/NEXRAD-Data-Grabber): A simple program using the nexradaws module to retrieve NEXRAD L2 data from the AWS S3 which houses the data from NOAA/NWS.
-
-### Personal Projects
-
-- [Esports Pickem Bot](https://github.com/WxboySuper/Esports-Pickem-Discord-Bot)
-- [Random Productivity App](https://github.com/WxboySuper/Productivity-App)
-
-Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project. 😊
+- Twitter / X: [@WeatherboySuper](https://twitter.com/WeatherboySuper)
+- Email: [alex@weatherboysuper.com](mailto:alex@weatherboysuper.com)
